@@ -29,6 +29,7 @@ getconf
 getent
 groups
 hostid
+htop
 iconv
 id
 install
@@ -59,6 +60,7 @@ pgrep
 pkill
 pmap
 printf
+ps
 pstree
 pwdx
 readlink
